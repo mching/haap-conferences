@@ -1,4 +1,4 @@
-baseurl = "./"
+baseurl = "https://haap.netlify.com"
 title = "HAAP Conference Materials"
 author = "HAAP"
 canonifyurls = true
