@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HAAP Conference Materials</title>
+    <link>/./post/</link>
+    <description>Recent content in Posts on HAAP Conference Materials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/./post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pediatric Island Style 2017 Handouts</title>
+      <link>/./post/pediatric-island-style-2017/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/./post/pediatric-island-style-2017/</guid>
+      <description>Mahalo for registering for Pediatrics Island Style on November 2, 2017! By popular request, we are distributing the handouts electronically this year. This allows us to get these to you faster, saves you conference fees, and helps the environment!
+Below are links to download the slides in various formats (1 slide per page, 2 slides per page, etc.). Please download the slide format of your choice to your phone, tablet, or laptop before the conference.</description>
+    </item>
+    
+  </channel>
+</rss>
