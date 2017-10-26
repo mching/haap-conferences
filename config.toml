@@ -3,7 +3,7 @@ title = "HAAP Conference Materials"
 author = "HAAP"
 canonifyurls = true
 languagecode = "en"
-theme = "hugo-black-and-light-theme"
+theme = "black-and-light"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
